@@ -3,7 +3,7 @@ import Script from 'next/script';
 
 export default function AdsterraGacor() {
   // LINK DIRECT LINK BARU KAMU
-  const adsterraDirectLink = "https://northseize.com/ai/28748898/index.php";
+  const adsterraDirectLink = "https://evidentbummerhike.com/yhdf709m?key=0b40be49042ba751a97e8458be1cf713";
 
   useEffect(() => {
     // Jeda 2 detik agar iklan popunder sempat loading (double cuan)
